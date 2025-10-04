@@ -1,3 +1,4 @@
+
 # 🚀 Image Boost AI - AI-Powered Image Enhancement
 
 A modern, responsive web application that uses cutting-edge AI technology to enhance, upscale, and perfect your images. Built with React, Vite, and Tailwind CSS.
@@ -21,24 +22,6 @@ A modern, responsive web application that uses cutting-edge AI technology to enh
 - **Build Tool**: Vite
 - **Package Manager**: npm
 
-## 🎨 Features in Detail
 
-### 🌙 Dark/Light Mode
-- Automatic system preference detection
-- Persistent theme selection
-- Smooth transitions between themes
-- Beautiful gradient backgrounds
 
-### 📤 Image Upload
-- Drag and drop functionality
-- File type validation
-- Progress indicators
-- Error handling
-
-### 🖼️ Image Processing
-- Real-time image enhancement
-- Side-by-side comparison
-- High-quality output
-- Responsive image display
-
-Enhancer Your Image Quality with :100:
+**Enhance Your Image Quality with AI Technology** 🚀✨
